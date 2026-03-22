@@ -1,0 +1,37 @@
+feedback,analysis,sentiment
+"The product quality is excellent and exactly as described, but the delivery took almost 10 days which was frustrating.","Sentiment: Neutral  
+Summary: The customer appreciates the product quality but is frustrated with the long delivery time.  
+Improvement: Improve delivery speed to enhance overall customer satisfaction.",Neutral
+Customer support responded quickly and solved my issue within minutes. Very satisfied with the service.,"Sentiment: Positive  
+Summary: The customer expressed satisfaction with the quick response and effective resolution of their issue by customer support.  
+Improvement: Continue to maintain prompt and effective support to ensure high customer satisfaction.",Positive
+The website checkout process is confusing and I had to restart the payment twice before it worked.,"Sentiment: Negative  
+Summary: The customer had a frustrating experience with the website's checkout process, encountering confusion and needing to restart the payment multiple times.  
+Improvement: Simplify the checkout process and provide clearer instructions to enhance user experience and reduce confusion.",Negative
+"Delivery was fast and the packaging was secure, but the product arrived with a small cosmetic scratch.","Sentiment: Neutral  
+Summary: The customer appreciated the fast delivery and secure packaging but noted a cosmetic imperfection on the product.  
+Improvement: Ensure better quality control to prevent products from arriving with cosmetic defects.",Neutral
+"The pricing is reasonable compared to competitors, but there are not enough customization options.","Sentiment: Neutral  
+Summary: The customer appreciates the reasonable pricing relative to competitors but is dissatisfied with the lack of customization options.  
+Improvement: Consider offering more customization options to enhance the customer experience.",Neutral
+The mobile app crashes occasionally when I try to upload images which makes it difficult to use.,"Sentiment: Negative  
+Summary: The customer experiences issues with the mobile app crashing during image uploads, which hampers usability.  
+Improvement: Enhance the app's stability by investigating the causes of crashes during image uploads and implementing fixes.",Negative
+"I really like the design and usability of the platform, everything feels intuitive and modern.","Sentiment: Positive  
+Summary: The customer appreciates the design and user experience of the platform, finding it intuitive and modern.  
+Improvement: Continue to enhance design features and maintain usability to meet user expectations.",Positive
+The onboarding tutorial was not very helpful and I struggled to understand how to use the main features.,"Sentiment: Negative  
+Summary: The customer found the onboarding tutorial unhelpful and had difficulty understanding the main features of the product.  
+Improvement: Enhance the onboarding tutorial with clearer instructions and examples, or provide additional resources such as videos or live support to assist users.",Negative
+Customer support took more than 48 hours to reply which delayed our business workflow.,"Sentiment: Negative  
+Summary: The customer is dissatisfied with the slow response time from customer support, which negatively impacted their business operations.  
+Improvement: Implement a faster response system or create a priority support option for urgent inquiries to enhance customer satisfaction.",Negative
+"The analytics dashboard provides useful insights, but exporting reports to CSV takes too long.","Sentiment: Neutral  
+Summary: The customer appreciates the usefulness of the analytics dashboard but finds the report export process to be inefficient.  
+Improvement: Optimize the report export feature to reduce wait times for exporting to CSV.",Neutral
+"The product works well overall, but the documentation is outdated and missing several important steps.","Sentiment: Neutral  
+Summary: The customer expresses satisfaction with the product's performance but highlights issues with the documentation.  
+Improvement: Update and enhance the documentation to include all necessary steps and ensure it reflects the current version of the product.",Neutral
+Notifications in the mobile app are delayed which causes me to miss important updates.,"Sentiment: Negative  
+Summary: The customer is frustrated with delayed notifications in the mobile app, which leads to missing important updates.  
+Improvement: Enhance the notification system to ensure timely delivery of updates to users.",Negative
