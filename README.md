@@ -62,6 +62,7 @@ ai-feedback-analyzer/
 ├── analysis_results.csv        # AI-generated analysis for each feedback
 ├── overall_report.txt          # AI-generated business insights report
 ├── sentiment_distribution.png  # Sentiment visualization chart
+├── app.py                      # Streamlit dashboard UI
 ├── .env                        # OpenAI API key
 └── README.md
 ```
@@ -74,6 +75,8 @@ ai-feedback-analyzer/
 * OpenAI API
 * Pandas
 * Matplotlib
+* Streamlit
+* Pillow
 * python-dotenv
 
 ---
@@ -83,7 +86,7 @@ ai-feedback-analyzer/
 Install required packages:
 
 ```
-pip install openai pandas python-dotenv matplotlib
+pip install openai pandas python-dotenv matplotlib streamlit pillow
 ```
 
 ---
@@ -100,11 +103,32 @@ OPENAI_API_KEY=your_api_key_here
 
 ## Running the Project
 
-Run the automation script:
+Run these commands in order:
+
+1. Generate analysis outputs (CSV, report, and chart):
 
 ```
 python automation.py
 ```
+
+2. Launch the Streamlit dashboard:
+
+```
+python -m streamlit run app.py
+```
+
+3. Open in browser:
+
+```
+http://localhost:8501
+```
+
+The dashboard shows all outputs on a single page with collapsible sections:
+
+* Executive summary and key metrics
+* Detailed business report
+* Sentiment distribution analysis
+* Raw analysis data with filtering and CSV export
 
 ---
 
@@ -175,10 +199,10 @@ Customers are generally satisfied with product quality and usability, though del
 
 Potential upgrades for this project:
 
-* Interactive **Streamlit dashboard**
 * Real-time feedback processing
 * Integration with CRM systems
 * Automated email reporting
+* Authentication and role-based dashboard access
 * Advanced analytics dashboards
 
 ---
