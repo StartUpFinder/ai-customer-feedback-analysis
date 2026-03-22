@@ -1,2 +1,32 @@
-# environment
+# Environment and secrets
 .env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
